@@ -6,4 +6,10 @@ Trying all the new staff:
 - visual code
 - markdown
 
+v1.1
+
+\- added js file
+\- modified index.html for js linking
+\- updated changelog to readme.md
+
 _To be continued..._
