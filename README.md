@@ -12,4 +12,8 @@ v1.1
 \- modified index.html for js linking  
 \- updated changelog to readme.md
 
+v1.2
+
+\- integrated new button with subtract functionality
+
 _To be continued..._
