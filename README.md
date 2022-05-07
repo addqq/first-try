@@ -8,8 +8,8 @@ Trying all the new staff:
 
 v1.1
 
-\- added js file
-\- modified index.html for js linking
+\- added js file  
+\- modified index.html for js linking  
 \- updated changelog to readme.md
 
 _To be continued..._
